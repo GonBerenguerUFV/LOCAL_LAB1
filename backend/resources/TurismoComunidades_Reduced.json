@@ -1,0 +1,70 @@
+[
+  {
+    "_id": "6580f1a6-cd7c-4e2d-b1cc-cf0ca9cd6891",
+    "from": {
+      "comunidad": "Total Nacional",
+      "provincia": ""
+    },
+    "to": {
+      "comunidad": "",
+      "provincia": ""
+    },
+    "timeRange": {
+      "fecha_inicio": "2024-08-01",
+      "fecha_fin": "2024-08-31",
+      "period": "2024M08"
+    },
+    "total": 19906000
+  },
+  {
+    "_id": "cdc9bf1c-8352-49e6-8d40-937266f61e00",
+    "from": {
+      "comunidad": "Total Nacional",
+      "provincia": ""
+    },
+    "to": {
+      "comunidad": "",
+      "provincia": ""
+    },
+    "timeRange": {
+      "fecha_inicio": "2024-07-01",
+      "fecha_fin": "2024-07-31",
+      "period": "2024M07"
+    },
+    "total": 18338774
+  },
+  {
+    "_id": "92140827-278f-4af6-96ef-012d991132ac",
+    "from": {
+      "comunidad": "Total Nacional",
+      "provincia": ""
+    },
+    "to": {
+      "comunidad": "",
+      "provincia": ""
+    },
+    "timeRange": {
+      "fecha_inicio": "2024-06-01",
+      "fecha_fin": "2024-06-30",
+      "period": "2024M06"
+    },
+    "total": 15437035
+  },
+  {
+    "_id": "02819cf9-8ef7-4892-a516-b55dcd7577d2",
+    "from": {
+      "comunidad": "Total Nacional",
+      "provincia": ""
+    },
+    "to": {
+      "comunidad": "",
+      "provincia": ""
+    },
+    "timeRange": {
+      "fecha_inicio": "2024-05-01",
+      "fecha_fin": "2024-05-31",
+      "period": "2024M05"
+    },
+    "total": 14300183
+  }
+]
