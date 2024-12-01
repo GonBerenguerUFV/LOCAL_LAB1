@@ -140,7 +140,6 @@ public class BackendApplicationTests {
 
     }
 
-
     @Test
     public void testDeleteCommunity() {
         // Create a community
