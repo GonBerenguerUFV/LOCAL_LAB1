@@ -26,7 +26,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment=WebEnvironment.RANDOM_PORT)
-public class BackendApplicationTests {
+public class BackendApplicationTest {
 	@Autowired
     private TestRestTemplate restTemplate;
 
@@ -40,6 +40,8 @@ public class BackendApplicationTests {
 
     @Before
     public void setUp() {
+        //System.out.println("***** EJECUTANDO APLICACION ******");
+		//System.out.println("Current directory: " + System.getProperty("user.dir"));
         baseUrl = "http://localhost:" + port + "/api/communities";
     }
 

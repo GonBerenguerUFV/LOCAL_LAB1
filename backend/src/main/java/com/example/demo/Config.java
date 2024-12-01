@@ -8,7 +8,7 @@ import java.util.Properties;
 public class Config {
 
     public String getProperty(String property) {
-        String rootPath = "./backend";
+        String rootPath = ".";
 		String appConfigPath = rootPath + "/config.properties";
 		Properties appProps = new Properties();
 		try {
